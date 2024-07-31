@@ -71,7 +71,8 @@ assessing the robustness of the strategy.
 4. Strategy Improvement: 
 Based on the analysis, propose modifications to improve the strategy. This may 
 involve adjusting parameters, incorporating additional indicators, or refining the 
-trading rules. 
+trading rules.
+ 
 Conclusion:
 A well-executed analysis of historical stock data and backtesting of trading strategies 
 provides valuable insights into their effectiveness. By leveraging comprehensive data and 
