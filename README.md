@@ -1,4 +1,4 @@
-# National-Shock-Exchange-Data-Analysis
+# National-Stock-Exchange-Data-Analysis
 
 1. Data Acquisition and Preparation 
 In financial analysis, accurate and comprehensive data acquisition is crucial. The goal is 
